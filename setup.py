@@ -9,8 +9,6 @@ def Requirements(filename):
             req.remove("-e .")
     return req
 
-
-
 setup(
     name="Food Delivery Time Prediction",
     author="Gajender",
