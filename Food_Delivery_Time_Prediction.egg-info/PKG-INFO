@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Food-Delivery-Time-Prediction
+Version: 0.1
+Summary: All about the Prediction of Delivering the Food on the Time
+Author: Gajender
+Author-email: iamsanju0707@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: dill
