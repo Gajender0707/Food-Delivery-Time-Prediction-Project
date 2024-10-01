@@ -6,7 +6,7 @@ from dataclasses import dataclass
 @dataclass
 class dataingestion_config:
     data_path=os.path.join("Artifacts","data.csv")
-    training_data_path=os.path.join("artifacts","train.csv")
+    training_data_path=os.path.join("Artifacts","train.csv")
     testing_data_path=os.path.join("Artifacts","test.csv")
 
 
